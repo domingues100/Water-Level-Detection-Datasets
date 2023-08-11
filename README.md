@@ -1,5 +1,5 @@
 # Water-Level-Detection-Datasets
-Datasets used for whater level detection
+Datasets used for water level detection
 
 ## Citation Request
 
